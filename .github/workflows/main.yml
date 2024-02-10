@@ -1,0 +1,5 @@
+            - name: action-dart-compile
+  # You may pin to the exact commit or the version.
+  # uses: CaiJingLong/action-dart-compile@a7234a22d242e6350ca60519172dda0725d569a4
+  uses: CaiJingLong/action-dart-compile@v1.0.1
+          
